@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d8f607e-9ed4-4ad5-98a0-86f26d0ec62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\golang" />
+  <component name="ProjectId" id="1pBNqxWuOUrJKgyxrpirVcJOo0b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="data-structure" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/array.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build array.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614670715645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="383" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614670715645" />
+    <state x="734" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1614676882921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614676882921" />
+    <state width="1357" height="140" key="GridCell.Tab.0.bottom" timestamp="1614829397949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1357" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614829397949" />
+    <state width="1357" height="140" key="GridCell.Tab.0.center" timestamp="1614829397949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1357" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614829397949" />
+    <state width="1357" height="140" key="GridCell.Tab.0.left" timestamp="1614829397949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1357" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614829397949" />
+    <state width="1357" height="140" key="GridCell.Tab.0.right" timestamp="1614829397949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1357" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614829397949" />
+    <state x="430" y="126" key="SettingsEditor" timestamp="1614656800922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="430" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614656800922" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1614829778960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1614829778960" />
+    <state x="706" y="292" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1614668770025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="292" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614668770025" />
+    <state x="631" y="228" width="628" height="536" key="find.popup" timestamp="1614668221949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="228" width="628" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614668221949" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1614674891040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614674891040" />
+    <state x="570" y="210" width="700" height="530" key="recent.locations.popup" timestamp="1614674490300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="570" y="210" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614674490300" />
+    <state x="592" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1614829368056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614829368056" />
+  </component>
+</project>
