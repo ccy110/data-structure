@@ -177,7 +177,6 @@ type ListNode struct {
 //func reverseKGroup(head *ListNode, k int) *ListNode {
 //	hair := &ListNode{Next: head}
 //	pre := hair
-//
 //	for head != nil {
 //		tail := pre
 //		for i := 0; i < k; i++ {
@@ -196,6 +195,51 @@ type ListNode struct {
 //	return hair.Next
 //}
 //
+//func myReverse(head, tail *ListNode) (*ListNode, *ListNode) {
+//	prev := tail.Next
+//	p := head
+//	for prev != tail {
+//		nex := p.Next
+//		p.Next = prev
+//		prev = p
+//		p = nex
+//	}
+//	return tail, head
+//}
+//
+//func reverseGroup(head *ListNode, k int) *ListNode {
+//	hair := &ListNode{Next: head}
+//	pre := hair
+//	for head != nil {
+//		tail := pre
+//		for i := 0; i < k; i++ {
+//			tail = tail.Next
+//			if tail == nil {
+//				return hair.Next
+//			}
+//		}
+//		nex := tail.Next
+//		head, tail = myReverse(head, tail)
+//		pre.Next = head
+//		tail.Next = nex
+//		pre = tail
+//		head = tail.Next
+//	}
+//	return hair.Next
+//}
+//
+//func myReverse(head, tail *ListNode) (*ListNode, *ListNode) {
+//	prev := tail.Next
+//	p := head
+//	for prev != tail {
+//		nex := p.Next
+//		p.Next = prev
+//		prev = p
+//		p = nex
+//	}
+//	return tail, head
+//}
+
 //func myReverse(head, tail *ListNode) (*ListNode, *ListNode) {
 //	prev := tail.Next
 //	p := head
@@ -230,7 +274,7 @@ type ListNode struct {
 //	return hair.Next
 //}
 //
-////反转链表
+////反转链表 双指针反转
 //func myReverse(head, tail *ListNode) (*ListNode, *ListNode){
 //	prev := tail.Next
 //	p := head
@@ -244,8 +288,20 @@ type ListNode struct {
 //}
 
 //在遍历链表时，将当前节点的 next 指针改为指向前一个节点。由于节点没有引用其前一个节点，因此必须事先存储其前一个节点。
-//在更改引用之前，还需要存储后一个节点。最后返回新的头引用
+//在更改引用之前，还需要存储后一个节点。最后返回新的头引用 双指针引用
 //func reverseList(head *ListNode) *ListNode{
+//	var pre *ListNode
+//	cur := head
+//	for cur != nil {
+//		next := cur.Next
+//		cur.Next = pre
+//		pre = cur
+//		cur = next
+//	}
+//	return pre
+//}
+
+//func reverseList(head *ListNode) *ListNode {
 //	var pre *ListNode
 //	cur := head
 //	for cur != nil {
